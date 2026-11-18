@@ -1,4 +1,4 @@
-# OpenCode Skills
+# Shengwen Skills
 
 ## 安装命令 / Installation
 
